@@ -1,12 +1,9 @@
-hello how the Git hub change a commit whether it's you or me it will be change- 👋 Hi, I’m @Suraj-ui-dot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#include<stdio.h>
+int main(){ 
 
-<!---
-Suraj-ui-dot/Suraj-ui-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+int a=10;
+int b=5;
+int sum =a+b;
+printf("The sum of a and b is %d",sum);
+return 0;
+}
